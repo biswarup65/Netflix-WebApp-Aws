@@ -1,6 +1,6 @@
 # 🚀 Highly Available & Scalable Web Application on AWS
 
-![Project Banner]()
+![Project Banner](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/aws-project-architecture.png)
 
 ## 🎯 Objective
 
