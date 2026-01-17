@@ -144,44 +144,48 @@ AWS automatically manages scaling actions
 ---
 
 ## 📊 ALB Overview Page
-![ALB Overview]()
+![ALB Overview](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20175645.png)
 
 ---
 
 ## 📊 Target Group – Healthy Targets
 
-![TG]()
+![TG](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20181006.png)
 
 ---
 ## 📊 Auto Scaling Group – Activity History
 
 
-![Auto Scaling Group – Activity]()
+![Auto Scaling Group – Activity](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20181156.png)
 
 ---
 
 ## 📊 CloudWatch CPU Utilization Graph
-![CloudWatch CPU Utilization Graph]()
+![CloudWatch CPU Utilization Graph](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%20(15).png)
 
 ---
 
 ## 📊 CloudWatch UnHealthyHostCount Alarm
-![CloudWatch UnHealthyHostCount Alarm]()
+![CloudWatch UnHealthyHostCount Alarm](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20182946.png)
 
 ---
 
 ## 📊 Scaling Policy (RequestCountPerTarget)
-![Scaling Policy - (RequestCountPerTarget)]()
+![Scaling Policy - (RequestCountPerTarget)](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20183125.png)
 
 ---
 
 ## 📊 EC2 Instances List (Multiple Instances Running)
-![ EC2 Instances]()
+![ EC2 Instances](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20181255.png)
 
 ---
 
 ## 🌐 Application Preview (Deployed)
-![ Netflix Web app]()
+![ Netflix Web app](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20183501.png)
 
 ---
+![ Netflix Web app-features](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20183621.png)
+
+---
+
 
