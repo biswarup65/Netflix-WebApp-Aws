@@ -94,7 +94,7 @@ Avoided hard-coded credentials (best practice)
 ``` 
 ## 4️⃣ EC2 Launch Template
 ``` bash
-Amazon Linux 2 AMI
+Ubuntu LTS AMI
 
 Apache installed using user-data script
 
@@ -120,16 +120,18 @@ Enabled ELB and EC2 health checks
 ``` bash
 Configured alarms for:
 
-EC2 CPU Utilization
+1. EC2 CPU Utilization
 
-EC2 Status Check Failed
+2. EC2 Status Check Failed
 
-ALB UnHealthyHostCount
+3. ALB UnHealthyHostCount
 
 Enabled target tracking scaling using:
 
 ALB RequestCountPerTarget
 
 AWS automatically manages scaling actions
-``` 
+```
+
+---
 
