@@ -23,20 +23,20 @@ The infrastructure is deployed inside a custom VPC with proper network isolation
 **User → Application Load Balancer → Auto Scaling Group → EC2 Instances**
 
 • Multi-AZ deployment for high availability  
-• Automatic scale-out and scale-in based on traffic
-• Continuous monitoring using CloudWatch
+• Automatic scale-out and scale-in based on traffic 
+• Continuous monitoring using CloudWatch 
 
 ---
 
 ## ✨ Key Highlights
 
-✔ High availability using Application Load Balancer
-✔ Automatic scaling using Auto Scaling Group
-✔ Traffic-based scaling using ALB RequestCountPerTarget
-✔ Real-time monitoring and alerts via CloudWatch
-✔ Secure access using IAM roles
-✔ Custom VPC with public subnets
-✔ Health checks and self-healing infrastructure
+✔ High availability using Application Load Balancer 
+✔ Automatic scaling using Auto Scaling Group 
+✔ Traffic-based scaling using ALB RequestCountPerTarget 
+✔ Real-time monitoring and alerts via CloudWatch 
+✔ Secure access using IAM roles 
+✔ Custom VPC with public subnets 
+✔ Health checks and self-healing infrastructure 
 
 ---
 
