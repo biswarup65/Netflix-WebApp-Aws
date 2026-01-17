@@ -135,3 +135,53 @@ AWS automatically manages scaling actions
 
 ---
 
+## 📊 AWS Console Snapshots & CloudWatch 
+
+
+## 🌐 VPC Dashboard
+![VPC Dashboard]()
+
+---
+
+## 📊 ALB Overview Page
+![ALB Overview]()
+
+---
+
+## 📊 Target Group – Healthy Targets
+
+![TG]()
+
+---
+## 📊 Auto Scaling Group – Activity History
+
+
+![Auto Scaling Group – Activity]()
+
+---
+
+## 📊 CloudWatch CPU Utilization Graph
+![CloudWatch CPU Utilization Graph]()
+
+---
+
+## 📊 CloudWatch UnHealthyHostCount Alarm
+![CloudWatch UnHealthyHostCount Alarm]()
+
+---
+
+## 📊 Scaling Policy (RequestCountPerTarget)
+![Scaling Policy - (RequestCountPerTarget)]()
+
+---
+
+## 📊 EC2 Instances List (Multiple Instances Running)
+![ EC2 Instances]()
+
+---
+
+## 🌐 Application Preview (Deployed)
+![ Netflix Web app]()
+
+---
+
