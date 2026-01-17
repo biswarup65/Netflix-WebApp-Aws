@@ -139,7 +139,7 @@ AWS automatically manages scaling actions
 
 
 ## 🌐 VPC Dashboard
-![VPC Dashboard](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot 2026-01-17 175119.png)
+![VPC Dashboard](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20175119.png)
 
 ---
 
