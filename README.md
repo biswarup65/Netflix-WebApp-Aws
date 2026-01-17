@@ -50,7 +50,7 @@ The infrastructure is deployed inside a custom VPC with proper network isolation
 
 ## 🛠️ Tools & Technologies Used
 
-| AWS Services | Use cases |
+| AWS Services | Use case |
 |-----------|-------|
 | **Amazon EC2** | Web server hosting |
 | **Elastic Load Balancing** | Traffic distribution |
@@ -59,10 +59,21 @@ The infrastructure is deployed inside a custom VPC with proper network isolation
 | **AWS IAM** | Secure access control |
 | **Amazon CloudWatch** | Monitoring & alarms |
 | **Amazon EBS** | Instance storage |
-| **Linux** | (Ubuntu LTS) |
+| **Linux** | Ubuntu LTS |
 | **Nginx** | Reverse proxy Server |
 
 ---
+
+## ⚙️ Setup Process & Deployment Instructions
+
+## 1️⃣ VPC & Networking
+``` bash
+Created a custom VPC with CIDR 10.0.0.0/16
+
+Configured two public subnets across different Availability Zones
+
+Attached an Internet Gateway and updated route tables
+```
 
 
 
