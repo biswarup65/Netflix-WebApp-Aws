@@ -139,7 +139,7 @@ AWS automatically manages scaling actions
 
 
 ## 🌐 VPC Dashboard
-![VPC Dashboard]()
+![VPC Dashboard](screenshots/Screenshot 2026-01-17 175119.png)
 
 ---
 
