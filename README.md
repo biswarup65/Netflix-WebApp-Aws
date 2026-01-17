@@ -50,13 +50,19 @@ The infrastructure is deployed inside a custom VPC with proper network isolation
 
 ## 🛠️ Tools & Technologies Used
 
-▪ **Amazon EC2 – Web server hosting**
-▪ **Elastic Load Balancing – Traffic distribution**
-▪ **Auto Scaling Group – Automatic scaling & recovery**
-▪ **Amazon VPC – Network isolation**
-▪ **AWS IAM – Secure access control**
-▪ **Amazon CloudWatch – Monitoring & alarms**
-▪ **Amazon EBS – Instance storage**
-▪ **Linux (Ubuntu LTS)**
-▪ **Nginx Reverse proxy Server**
+| AWS Services | Use cases |
+|-----------|-------|
+| **Amazon EC2** | Web server hosting |
+| **Elastic Load Balancing** | Traffic distribution |
+| **Auto Scaling Group** | Automatic scaling & recovery |
+| **Amazon VPC** | Network isolation |
+| **AWS IAM** | Secure access control |
+| **Amazon CloudWatch** | Monitoring & alarms |
+| **Amazon EBS** | Instance storage |
+| **Linux** | (Ubuntu LTS) |
+| **Nginx** | Reverse proxy Server |
+
+---
+
+
 
