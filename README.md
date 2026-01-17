@@ -68,12 +68,68 @@ The infrastructure is deployed inside a custom VPC with proper network isolation
 
 ## 1️⃣ VPC & Networking
 ``` bash
-Created a custom VPC with CIDR 10.0.0.0/16
+Created a custom VPC with CIDR 172.10.0.0/16
 
 Configured two public subnets across different Availability Zones
 
 Attached an Internet Gateway and updated route tables
 ```
+## 2️⃣ Security Configuration
+``` bash
+Created Security Groups:
 
+ALB SG: Allows HTTP (port 80) from the internet
 
+EC2 SG: Allows HTTP only from ALB SG
+
+Implemented least-privilege access
+```
+## 3️⃣ IAM Role
+``` bash
+Created an IAM role for EC2
+
+Attached CloudWatchAgentServerPolicy
+
+Avoided hard-coded credentials (best practice)
+``` 
+## 4️⃣ EC2 Launch Template
+``` bash
+Amazon Linux 2 AMI
+
+Apache installed using user-data script
+
+Consistent configuration for all instances
+``` 
+## 5️⃣ Application Load Balancer
+``` bash
+Internet-facing ALB
+
+Deployed across multiple subnets
+
+Configured target group with health checks
+``` 
+## 6️⃣ Auto Scaling Group
+``` bash
+Linked to Launch Template
+
+Minimum: 1 | Desired: 2 | Maximum: 4
+
+Enabled ELB and EC2 health checks
+``` 
+## 7️⃣ CloudWatch Monitoring & Scaling
+``` bash
+Configured alarms for:
+
+EC2 CPU Utilization
+
+EC2 Status Check Failed
+
+ALB UnHealthyHostCount
+
+Enabled target tracking scaling using:
+
+ALB RequestCountPerTarget
+
+AWS automatically manages scaling actions
+``` 
 
