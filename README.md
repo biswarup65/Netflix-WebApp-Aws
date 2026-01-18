@@ -94,9 +94,9 @@ Avoided hard-coded credentials (best practice)
 ``` 
 ## 4️⃣ EC2 Launch Template
 ``` bash
-Ubuntu LTS AMI
+Using with existing Amazon Machine Image(AMI) where are pre-installed Nginx web server and also pre-configured web application configuration code
 
-Apache installed using user-data script
+These existing AMI are helps to deployed the web application across the muliple instances which will launched through Launch Template
 
 Consistent configuration for all instances
 ``` 
