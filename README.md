@@ -42,7 +42,7 @@ The infrastructure is deployed inside a custom VPC with proper network isolation
 
 ✔ Secure access using IAM roles 
 
-✔ Custom VPC with public subnets 
+✔ Custom VPC with public and private subnets 
 
 ✔ Health checks and self-healing infrastructure 
 
@@ -70,9 +70,13 @@ The infrastructure is deployed inside a custom VPC with proper network isolation
 ``` bash
 Created a custom VPC with CIDR 172.10.0.0/16
 
-Configured two public subnets across different Availability Zones
+Configured two public and private subnets across different Availability Zones
 
-Attached an Internet Gateway and updated route tables
+Attached an Internet Gateway with public subnet route table and updated route tables
+
+Create a NAT Gatway and deploy on public subnets
+
+Add NAT Gateway routes in both private subnets route table
 ```
 ## 2️⃣ Security Configuration
 ``` bash
@@ -104,7 +108,7 @@ Consistent configuration for all instances
 ``` bash
 Internet-facing ALB
 
-Deployed across multiple subnets
+Deployed across public subnets
 
 Configured target group with health checks
 ``` 
@@ -165,7 +169,7 @@ AWS automatically manages scaling actions
 
 ---
 
-## 📊 CloudWatch Target tracking RequestCountPerTarget Graph & Alert
+## 📊 CloudWatch Target tracking RequestCountPerTarget Graph 
 
 ![CloudWatch Target tracking RequestCountPerTarget Graph](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Target-tracking-scaling-cloudwatch-alarm-graph.png)
 
