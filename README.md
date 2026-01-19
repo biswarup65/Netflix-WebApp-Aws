@@ -232,7 +232,8 @@ It reflects real-world cloud support responsibilities and provides a strong foun
 ---
 ## References
 
-- AWS Documentation – VPC with servers in private subnets and NAT gateway
-  ![Reference](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html)
+- AWS Documentation: VPC with servers in private subnets and NAT gateway  
+  https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html
+
 
 
