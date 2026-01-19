@@ -229,4 +229,10 @@ AWS automatically manages scaling actions
 This project demonstrates a production-style AWS infrastructure focused on availability, scalability, monitoring, and security.
 It reflects real-world cloud support responsibilities and provides a strong foundation in Cloud Infrastructure.
 
+---
+## References
+
+- AWS Documentation – VPC with servers in private subnets and NAT gateway
+  [https://docs.aws.amazon.com/elasticloadbalancing/](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html)
+
 
