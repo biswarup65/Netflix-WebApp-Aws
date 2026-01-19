@@ -139,59 +139,59 @@ AWS automatically manages scaling actions
 
 
 ## 🌐 VPC Dashboard
-![VPC Dashboard]()
+![VPC Dashboard](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/vpc-dashboard.png)
 
 ---
 
 ## 📊 ALB Overview Page
-![ALB Overview]()
+![ALB Overview](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/alb-overview.png)
 
 ---
 
 ## 📊 Target Group – Healthy Targets
 
-![TG]()
+![TG](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/target-group-healthy-instances.png)
 
 ---
 ## 📊 Auto Scaling Group – Activity History
 
 
-![Auto Scaling Group – Activity]()
+![Auto Scaling Group – Activity](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/asg-scaling-activity-history.png)
 
 ---
 
 ## 📊 CloudWatch CPU Utilization Graph
-![CloudWatch CPU Utilization Graph]()
+![CloudWatch CPU Utilization Graph](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/cpu-utlization-graph-cw.png)
 
 ---
 
 ## 📊 CloudWatch Target tracking RequestCountPerTarget Graph & Alert
 
-![CloudWatch Target tracking RequestCountPerTarget Graph]()
----
-
-![CloudWatch Target tracking RequestCountPerTarget Alert]()
+![CloudWatch Target tracking RequestCountPerTarget Graph](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Target-tracking-scaling-cloudwatch-alarm-graph.png)
 
 ## 📊 CloudWatch UnHealthyHostCount Alarm
-![CloudWatch UnHealthyHostCount Alarm]()
+![CloudWatch UnHealthyHostCount Graph](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/unhealthy-host-count-cloudwatch-graph.png)
+
+---
+![CloudWatch UnHealthyHostCount Alert](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/unhealthy-hostcount-alert-via-cloudwatch-alarm.png)
 
 ---
 
 ## 📊 Scaling Policy (RequestCountPerTarget)
-![Scaling Policy - (RequestCountPerTarget)]()
+![Scaling Policy - (RequestCountPerTarget)](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/asg-target-tracking-policy.png)
 
 ---
 
 ## 📊 EC2 Instances List (Multiple Instances Running)
-![ EC2 Instances]()
+![ EC2 Instances](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/ec2-instances-multiples.png)
 
 ---
 
 ## 🌐 Application Preview (Deployed)
-![ Netflix Web app]()
+![ Netflix Web app](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/application-view-1.png)
 
 ---
-![ Netflix Web app-features]()
+![ Netflix Web app-features](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/application-view-2.png)
 
 ---
 
