@@ -139,52 +139,59 @@ AWS automatically manages scaling actions
 
 
 ## 🌐 VPC Dashboard
-![VPC Dashboard](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20175119.png)
+![VPC Dashboard]()
 
 ---
 
 ## 📊 ALB Overview Page
-![ALB Overview](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20175645.png)
+![ALB Overview]()
 
 ---
 
 ## 📊 Target Group – Healthy Targets
 
-![TG](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20181006.png)
+![TG]()
 
 ---
 ## 📊 Auto Scaling Group – Activity History
 
 
-![Auto Scaling Group – Activity](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20181156.png)
+![Auto Scaling Group – Activity]()
 
 ---
 
 ## 📊 CloudWatch CPU Utilization Graph
-![CloudWatch CPU Utilization Graph](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%20(15).png)
+![CloudWatch CPU Utilization Graph]()
 
 ---
 
+## 📊 CloudWatch Target tracking RequestCountPerTarget Graph & Alert
+
+![CloudWatch Target tracking RequestCountPerTarget Graph]()
+---
+
+![CloudWatch Target tracking RequestCountPerTarget Alert]()
+
 ## 📊 CloudWatch UnHealthyHostCount Alarm
-![CloudWatch UnHealthyHostCount Alarm](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20182946.png)
+![CloudWatch UnHealthyHostCount Alarm]()
 
 ---
 
 ## 📊 Scaling Policy (RequestCountPerTarget)
-![Scaling Policy - (RequestCountPerTarget)](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20183125.png)
+![Scaling Policy - (RequestCountPerTarget)]()
 
 ---
 
 ## 📊 EC2 Instances List (Multiple Instances Running)
-![ EC2 Instances](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20181255.png)
+![ EC2 Instances]()
 
 ---
 
 ## 🌐 Application Preview (Deployed)
-![ Netflix Web app](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20183501.png)
+![ Netflix Web app]()
 
 ---
-![ Netflix Web app-features](https://github.com/biswarup65/Netflix-WebApp-Aws/blob/main/screenshots/Screenshot%202026-01-17%20183621.png)
+![ Netflix Web app-features]()
 
 ---
 
